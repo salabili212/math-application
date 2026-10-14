@@ -13,7 +13,7 @@ public class MathApp {
         double smallestPrice = Math.min(carPrice, truckPrice);
         System.out.println("The lowest price is $"+smallestPrice);
 
-        //Question 3
+        //Question -3
         float r = 7.25f;
         double area = (r * r) * Math.PI;
         System.out.println("The area of the circle is: "+area);
